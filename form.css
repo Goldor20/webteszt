@@ -3,9 +3,10 @@ body{
 }
 
 nav{
-    width: 800px;
+    width: 100%;
     height: auto;
     background-color: rgb(202, 202, 181);
     text-align: center;
     margin: 10px;
+    border 20px;
 }
