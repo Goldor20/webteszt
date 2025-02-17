@@ -26,15 +26,15 @@ body {
   }
   
   .rolunk a:hover {
-    background-color: #ddd;
+    background-color: #dddddd64;
     color: black;
   }
   
   .header a.active {
-    background-color: green;
+    background-color: green ;
     color: white;
   }
-  
+
   .header-right {
     float: right;
   }
